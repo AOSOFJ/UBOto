@@ -75,7 +75,7 @@ echo """
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 "
-rm -rf UB-BACK
-git clone https://github.com/AOSOFJ/UB-BACK
-cd UB-BACK
+rm -rf UB
+git clone https://github.com/AOSOFJ/UB
+cd UB
 python3 -m userbot
