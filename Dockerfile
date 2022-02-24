@@ -1,4 +1,4 @@
-RUN clone https://github.com/AOSOFJ/UB.git /root/userbot
+RUN clone https://github.com/WorkerUB001/WorkerUB002.git /root/userbot
 
 WORKDIR /root/userbot
 
